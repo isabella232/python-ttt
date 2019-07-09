@@ -16,3 +16,11 @@
 
 Run with python3.
 
+# snapshots
+
+![title](https://lumakernel.github.io/python-ttt/snapshots/01.png)
+
+![level](https://lumakernel.github.io/python-ttt/snapshots/02.png)
+
+![main](https://lumakernel.github.io/python-ttt/snapshots/03.png)
+
