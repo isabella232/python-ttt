@@ -12,7 +12,7 @@
 * PIL
   * `pip install pillow`
 
-# startup
+# how to play
 
-run with python3
+Run with python3.
 
